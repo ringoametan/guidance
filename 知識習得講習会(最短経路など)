@@ -1,0 +1,22 @@
+１　アルゴリズム(計算方法)
+   https://www.nc.ii.konan-u.ac.jp/projects/JOIregio/slides/regioAlgo1.pdf
+   ・動的計画法
+    ・部分列の和
+   ・バックギャモン
+   ・Balloon Collecting
+
+2   便利なライブラリ
+   https://www.nc.ii.konan-u.ac.jp/projects/JOIregio/slides/regioAlgo2.pdf
+   ・発注集計
+   ・島の数
+   ・Stack, Queue, 優先度 Queue
+
+3   最短経路
+   https://www.nc.ii.konan-u.ac.jp/projects/JOIregio/slides/regioAlgo3.pdf
+    ・幅優先探索
+    　・迷路
+    　・点と点を結ぶ最短距離
+     
+4   Awkward Lights 
+   file:///C:/Users/ouaha/Downloads/icpcLight.pdf
+   　・ライトon/off
